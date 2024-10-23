@@ -20,7 +20,7 @@ The first point should be similar in all your studies, this could be e.g. the ef
 ## Logic
 5. What is the logic of the hypothesis or the question. Try to create a “line of logic” between the introduction and the question/hypothesis.
 ## Methods
-6. Describe the study design. Use Hulley, (2013), Chapters 7-133 in your analysis.
+6. Describe the study design. Use Hulley, (2013), Chapters 7-13 in your analysis.
 7. Describe the sample and if the study defines the population.
 8. Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
 9. Describe how the study was conducted (what tests was performed when etc.)

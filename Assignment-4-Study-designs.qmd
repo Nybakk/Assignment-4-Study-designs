@@ -1,8 +1,8 @@
 ---
 title: "Assignment-4-study-designs"
-author: "AN"
+author: "Anders Nybakk"
 format: html
-    code-fold: true
+code-fold: true
 execute:
   warning: false  # Skjuler varselmeldinger
 editor_options: 
@@ -66,4 +66,4 @@ Your report should not contain a detailed summary of all studies for all these q
 
 [@javaloyes2020]
 
-[@rønnestad2022]
+[@almquist2022]

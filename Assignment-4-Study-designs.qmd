@@ -1,5 +1,5 @@
 ---
-title: "Assignment-4-study-designs"
+title: "Assignment 4: Study designs"
 author: "Anders Nybakk"
 format: html
 code-fold: true
@@ -12,31 +12,34 @@ bibliography: references.bib
 
 # Indroduksjon
 
-*Choose an area of interest (e.g. protein supplementation for muscle hypertrophy or the effect of block periodization on VO2max). Find at least five original research studies1 in your selected area and describe strength and weakness of these studies (see below). The report should focus on the design of the studies and selection of statistical tests to answer study aims. Conclude your report with a recommendation, how should future studies in your area be designed to best answer similar questions?*
+I denne oppgaven skal jeg analysere og sammenlikne fem forskningsartikkler som undersøker samme tema. Tema jeg har valg er *"Blokkperiodisering og VO*<sub>2max</sub>". Jeg skal forsøke å bruke QALMRI-metoden for å analysere og sammenlikne artiklene på en systematisk og god måte. QALMRI står for "Questions", "Alternatives", "Logic", "Method", "Results", "Inferences", og handler om å systematisk analysere hva forfatterne ønsker å finne ut av, hva de torr vil skje, logikken bak hypotesen, metodene de har brukt i forskningen, resultatene og hva de betyr [@brosowsky2020].
 
-# Details
+Artiklene jeg har valgt er:
 
-When **analyzing** your studies you can use the QALMRI method2.
+-   *"Block training periodization in alpine skiing: eVects of 11-day HIT on VO*<sub>2max</sub> and performance" - [@breil2010]
+-   *"Block periodization of high-intensity aerobic intervals provides superior training effects in trained cyclists"* - [@rønnestad2012]
+-   *"Effects of 12 weeks of block periodization on performance and performance indices in well-trained cyclists"* - [@rønnestad2012a]
+-   *"Training Prescription Guided by Heart Rate Variability Vs. Block Periodization in Well-Trained Cyclists"* - [@javaloyes2020]
+-   *"No Differences Between 12 Weeks of Block- vs. Traditional-Periodized Training in Performance Adaptations in Trained Cyclists"* - [@almquist2022]
 
-Note that the report **should not** contain your QALMRI table but should instead be focused on describing differences and similarities in all studies together (see also below)!
+# Hoveddel
 
-## The questions may help you analyze your studies
+## Grunnlag for studiene
 
-1.  What was the broader problem the authors are trying to resolve in the study?
-2.  What are the specific questions the authors are trying to answer?
+Hovedfokuset til studiene jeg har valgt er å se på effekten av blokkperiodisert trening, med fokus på utholdenhet. Fire av artiklene ser spesifikt på hvordan effekten er for syklister, mens den siste tar for seg alpinister. [@rønnestad2012], [@rønnestad2012a] og [@almquist2022] sammenlikner i sine artikler effekten av blokkbasert trening (BP) med tradisjonell periodisering (TP). [@javaloyes2020] sammenlikner effekten av BP med *"heart rate variability guided training"* (HRV). [@breil2010] som forskjer på alpinister skiller seg også ut fra dette fordi de sammenlikner ikke BP med en annen form for periodisering. De forskjer utelukkende på hva en blokk med høyintensitetsintervaller (HIT) gjør med den aerobe kapasiteten til junior-alpinister.
 
-The first point should be similar in all your studies, this could be e.g. the effect of age on physical functioning, effect of certain training protocols on VO2max, etc. The second point is potentially different between your studies.
+[@breil2010], [@rønnestad2012], [@rønnestad2012a] har alle en hypotese om at BP vil gi en større forbedring i aerob kapasitet enn TP. Dette gi mening fordi det blir referert til studiene i artiklene. [@breil2010] sine funn blir referet til i [@rønnestad2012], og [@rønnestad2012a] referer igjen til sitt eget studie tidligere det samme året, og handler mye om å utvide forskningen de selv har gjort. Tanken bak BP er å lure kroppen til og styrkes raskere som følge av en relativt rask belastningsøkning i form av en høyintensitets treningsbolk på for eksempel en uke. Det er da viktig at man eterfølger dette med en rolig bolk slik at kroppen får tid til å restituere seg. Tanken er at en slik periodisering skal gi en raskere fremgang en TP hvor man fordeler de harde øktene jevnt utover treningsperioden.
 
-## Alternative explanations
+[@almquist2022] presenterer ingen klar hypotese, men viser til nyere forskning hvor resultatene viser at BP ikke gir noe særlig bedre resultat enn andre former for periodisering som TP. Motivasjonen bak denne forskningen og artikkelen virker å være å undersøke hva som faktsik stemmer av tidligere forskning - altså om BP er bedre enn TP, eller ikke.
 
-3.  Is the specific question framed as an hypothesis or a question?
-4.  If the authors have formulated a hypothesis, what alternative explanations can you think of that could potentially explain the data that the authors hypothesize?
+[@javaloyes2020] har ingen klar hypotese i sin artikkel men viser til annen forskning som viser at HRV kan gi en mer pålitelig formening om en utøvers evne til å trene. Ut fra utøverens HRV-score før trening kan man bestemme hva slags intensitet treningsøkten skal ha. Høy HRV-score = høy intensitet og motsatt.Dette kan altså være en måte å få optimalisert treningen for hver utøver individuelt ut fra dagsfor slik at treningen også blir optimal [@walker2024]. Det blir ikke skrevet eksplisitt, men det virker som om de har en hypotese om at HRV kan være en bedre måte å periodisere treningen etter enn BP.
 
-## Logic
+## Sudiedesign og forskningsmetoder
 
-5.  What is the logic of the hypothesis or the question. Try to create a “line of logic” between the introduction and the question/hypothesis.
+Jeg synes det er vanskelig å si hva slags studiedesign som blir brukt i studiene. Alle studiene har som mål å finne ut om en form for periodisering er mer effektiv enn en annen. I de fleste studiene jeg har valgt er det BP som undersøkes med en kontrollgruppe som har TP, men unntak av studien til [@javaloyes2020] som sammenlikner HRV med BP. Dette kan likne på det [@hulley2013] kaller *"Case Controll Studies"*, men passer samtidig ikke helt fordi det beskrives som en forskningsmetode som brukes for å finne ut hvordan en bestemt diagnose påvirker en gruppe, men "diagnosen" kan kanskje byttes ut med treningsmetode. Studiene kan også minne om *"Randomized blinded trial"* som brukes for å finne ut om en behandling faktisk virker. Disse studiene blir blindet som vil si at deltakerne ikke vet om de er med i intervensjonsgruppen eller kontrollgruppen - derfor passer dette heller ikke helt. Kanskje er det designformen [@skovlund2021] *"Randomiserte kontrollerte studier"* som passer best hvor man deler utvalget tilfeldig, slik at eventuelle ulikheter i gruppene også blir tilfeldig. Alle studiene deler i hvert fall utvalget i to grupper: intervensjonsgruppe (BP eller HRV i [@javaloyes2020] sitt stude) og en kontrollgruppe (TP eller BP i [@javaloyes2020] sitt studie).
 
-## Methods
+
+
 
 6.  Describe the study design. Use Hulley, (2013), Chapters 7-13 in your analysis.
 7.  Describe the sample and if the study defines the population.
@@ -45,7 +48,7 @@ The first point should be similar in all your studies, this could be e.g. the ef
 10. Describe the variables in the study, what variables relate to the question/hypothesis?
 11. What methods did the authors use to make claims (what statistical tests were used)
 
-## Results
+## Resultat og konklusjon
 
 12. What were the main results of the study, did the authors answer their question/address their hypothesis?
 
@@ -54,16 +57,8 @@ The first point should be similar in all your studies, this could be e.g. the ef
 13. What could the authors conclude from the study?
 14. What did the authors conclude about the study population?
 
+# Avslutning
+
 # Performing your literature review and writing the report
 
 Your report should not contain a detailed summary of all studies for all these questions, instead you should summarize your results. Highlight differences and similarities between studies. As the main point of this review is study designs and statistical analyses, this should be your main focus.
-
-[@breil2010]
-
-[@rønnestad2012]
-
-[@rønnestad2012a]
-
-[@javaloyes2020]
-
-[@almquist2022]

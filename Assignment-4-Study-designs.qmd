@@ -22,6 +22,8 @@ Artiklene jeg har valgt er:
 -   *"Training Prescription Guided by Heart Rate Variability Vs. Block Periodization in Well-Trained Cyclists"* - [@javaloyes2020]
 -   *"No Differences Between 12 Weeks of Block- vs. Traditional-Periodized Training in Performance Adaptations in Trained Cyclists"* - [@almquist2022]
 
+Det skal sies at ikke alle artiklene jeg har valgt i denne oppgaven ser spesifikt på sammenhengen mellom bolkperiodisering og VO<sub>2max</sub>. De fleste av studiene ser på den generelle effekten bolkperiodisering har på prestasjonsevnen til utøverne. Ettersom VO<sub>2max</sub> er svært viktig for utholdenhetsidretter har jeg likevel valgt å fokusere på dette. Tester som går på andre egenskaper kommer jeg derfor ikke til å fokusere så mye på her.
+
 # Hoveddel
 
 ## Grunnlag for studiene
@@ -44,28 +46,31 @@ Alle studiene har utvalg med godt trente utøvere. I studien til [@breil2010] be
 
 I studiene til [@rønnestad2012] og [@rønnestad2012a] meldte deltakerne seg frivillig for å delta på prosjektet, men alle var som sagt godt trente eller aktive syklister. [@breil2010] hentet deltakerne fra et nasjonalt treningssenter og [@almquist2022] fra en lokal sykkelklubb. [@javaloyes2020] skriver ikke hvor de hentet sine deltakere fra, men at de ble plukket ut på bakgrunn av kvalifikasjoner. Ingen av studiene oppgir noen utregning for statistisk styrke, ut fra utvalgene kan man anta at det ikke er meningen at de skal være repressentative for hele populasjonen. Forskningen i disse artiklene handler nok hovedsaklig om prestasjonsutvikling for aktive utøvere.
 
-Alle studiene har forsøkt å standardisere så mye som mulig. Utøverne har fått instrukser i forkant av pretest om å unngå harde økter rett før testen, hva de kan spise og drikke på testdagen og liknende. I alle prosjektene blir det også gjort flere tester som VO<sub>2max</sub>, sprint, laktatprofil, spenst og så videre, og i noen av prosjektene foregår testene over to dager. I alle prosjektene er derfor rekkefølgen på testingen også standardisert. Treningsopplegget mellom testene er selvfølgelig laget og standardisert av prosjektlederne ettersom det er effekten av disse de skal undersøke.
+Alle studiene har forsøkt å standardisere så mye som mulig. Utøverne har fått instrukser i forkant av pretest om å unngå harde økter rett før testen, hva de kan spise og drikke på testdagen og liknende. I alle prosjektene blir det også gjort flere tester som VO<sub>2max</sub>, sprint, laktatprofil, spenst og så videre, og i noen av prosjektene foregår testene over to dager. I alle prosjektene er derfor rekkefølgen på testingen også standardisert. Treningsopplegget mellom testene er selvfølgelig laget og standardisert av prosjektlederne ettersom det er effekten av disse de skal undersøke. Varigheten på treningsperiodene varierer en del. I studiene til [@breil2010] og [@rønnestad2012] trener utøverne i 4 uker mellom testene, og i gruppen med BP har de først en hard uke med mye HIT etterfulgt av tre rolige uker med færre HIT-økter, mens TP hadde jevn treningsbelastning hele perioden. [@rønnestad2012a] og [@almquist2022] la opp treningen likt, men over 12 uker i stedet for fire og da med tre treningsblokker i BP-gruppen. [@javaloyes2020] hadde et treningsopplegg som gikk over åtte uker hvor HRV-gruppen trente ut fra HRV-scoren de fikk hver morgen, og BP-gruppen fulgte et forhåndsbestemt blokk-opplegg.
 
+Det har blitt brukt veldig like former for statistisk analyse i studiene. Utregning av standard avvik blir gjort i alle studiene og blir oppgitt som en del av resultatene. De fleste studiene med unntak av [@almquist2022] understreker at det blir gjort en ANOVA-analyse for å sammenlikne gruppene. T-test blir gjennomført av [@breil2010], [@rønnestad2012] og [@rønnestad2012a], mens [@almquist2022] og [@javaloyes2020] bruker *"Shapiro-Wilks-test"*. Sistnevnte bruker også en *"Levene's-test"*. Alle studeiene regner en p-verdi < 0,05 som statistisk signifikant.
 
-
-6.  Describe the study design. Use Hulley, (2013), Chapters 7-13 in your analysis.
-7.  Describe the sample and if the study defines the population.
-8.  Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
-9.  Describe how the study was conducted (what tests was performed when etc.)
-10. Describe the variables in the study, what variables relate to the question/hypothesis?
-11. What methods did the authors use to make claims (what statistical tests were used)
 
 ## Resultat og konklusjon
 
-12. What were the main results of the study, did the authors answer their question/address their hypothesis?
+I samtlige studier var BP den formen for periodisering som gav mest framgang på VO<sub>2max</sub>. Spesielt i studiene til [@breil2010], [@rønnestad2012] og [@rønnestad2012a] kommer BP godt ut, og har signifikan resultat - noe TD ikke har. I studien til [@almquist2022] er forskjellen vesentlig mindre. Her har BP fortsatt en fordel fremfor TP, men mmye mindre enn resultatene fra de andre studiene sier. En mulig forklaring på dette i følge forfatterne kan være den store spredningen i prestasjonsnivå. I denne studien varierer deltakerne fra nivå 2-5 [@skovlund2021; @pauw2013], så individuell framgang som følge av økning i treningsbelastining kan skjule eventuelle forskjeller mellom BP og TP. BP har også bedre effekt på VO<sub>2max</sub>. enn HRV i følge resultatene i studien til [@javaloyes2020], men også her er forskjellene mindre enn de tre første studiene.
 
-## Inference
+Studiene til [@breil2010], [@rønnestad2012] og [@rønnestad2012a] konkluderer med at BP *kan* være fordelaktig for å forbedre aerob kapasitet. Spesielt [@breil2010] er positive til BP, men dette er også en av de korteste studiene, og også den studien som tydeligst hadde fokus på VO<sub>2max</sub>. Selv om de er positive til BP stiller de fortsatt et spørsmålstegn til hvor viktig VO<sub>2max</sub> er for alpinister - selv om tidligere studier viser at alpinister har høyere VO<sub>2max</sub> enn gjennomsnittet i populasjonen. [@rønnestad2012] og [@rønnestad2012a] viser som sagt også til at disse studiene tyder på at BP kan være fordelaktig i forhold til TP, men er tydelige på at det er vanskelig å si hva som er den beste måten å legge opp treningen på for syklister. [@almquist2022] konkluderer med at deres data ikke støtter hypotesen om at BP er en bedre metode for trente syklister enn TD. Resultatene viser at det er litt forskjell på treningsutbyttet, men at den ikke er signifikant. Studien til [@javaloyes2020] skiller seg litt ut fra resten i og med at den har som mål å finne ut om HRV er et valid og reliabelt verktøy for å periodisere treningen. Derfor er det ikke fokus på hva som er mest effektivt av HRV og BP, men de konkluderer med at HRV er et godt hjelpemiddel og at man kan stole på det i trenignsplanleggingen.
 
-13. What could the authors conclude from the study?
-14. What did the authors conclude about the study population?
 
 # Avslutning
 
-# Performing your literature review and writing the report
+I denne oppgaven har jeg sett på frm forskjellige studier som handler om blokkperiodisering og VO<sub>2max</sub>. Jeg har forsåkt å analysere artiklene til disse studiene og se på hva slagt studiedesign de har brukt, hva slags statistiske metoder de har brukt og hva forskerne har funnet ut og konkludert med i studiene. Det siste punktet var litt vanskelig ettersom det bare var et av studiene jeg fant som forsket spesifikt på BP sin effekt på VO<sub>2max</sub>. Resten av studiene hadde mer generelt fokus på prestasjonsforbedring innenfor sykling hvor VO<sub>2max</sub> bare var en av mange variabler de forsket på. Jeg synes likevel det var spennende å se hvordan [@rønnestad2012a] og [@almquist2022] fikk forskjellige resultat. Disse studiene var veldig like, og Rønnestad var med i begge studiene, så det var interessant at resultatene ble såpass ulike. Alt i alt synes jeg alle artiklene var gode, og de virker svært seriøse, så det at resultatene ble ulike tyder bare på at det trengs mer forskning på feltet.
 
-Your report should not contain a detailed summary of all studies for all these questions, instead you should summarize your results. Highlight differences and similarities between studies. As the main point of this review is study designs and statistical analyses, this should be your main focus.
+
+
+
+
+
+
+
+
+
+
+
+
